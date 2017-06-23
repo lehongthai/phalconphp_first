@@ -1,0 +1,14 @@
+{
+    "name": "thai/first",
+    "description": "tutorials phalcon",
+    "require": {
+    	"ext-phalcon" : ">=3.0.0",
+    	"windwalker/renderer": "2.*",
+    	"illuminate/view": "*",
+        "respect/validation": "^1.1.11",
+        "monolog/monolog": "^1.23"
+    },
+    "require-dev": {
+    	"phalcon/devtools": "~3.2"
+    }
+}
